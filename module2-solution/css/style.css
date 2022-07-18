@@ -2,3 +2,7 @@ body{
   width: 992px;
   background: blue;
 }
+
+h1{
+  bg-color: white;
+}
